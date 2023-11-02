@@ -42,6 +42,12 @@ let track_list = [
     image: "https://pagalnew.com/coverimages/Too-Much-Dimitri-Vegas-Like-Mike-500-500.jpg",
     path: "music/Too Much.mp3",
   },
+  {
+    name: "Gumaan",
+    artist: "Young Stunners",
+    image: "https://m.media-amazon.com/images/M/MV5BNTJlNGQwY2EtZGYzYi00NzUxLWE4MmQtYzJlODVjZGNiZWRjXkEyXkFqcGdeQXVyMTM0Nzk1ODI0._V1_FMjpg_UY684_.jpg",
+    path: "music/Gumaan.mp3",
+  },
 ];
 
 function loadTrack(trackIndex){
