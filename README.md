@@ -1,4 +1,6 @@
 # Music-Player
+![Sample Image](images/sample.png)
+
 
 Title: Interactive Music Player
 
