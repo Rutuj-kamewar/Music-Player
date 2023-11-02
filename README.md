@@ -1,5 +1,5 @@
 # Music-Player
-![Sample Image](images/sample.png)
+![Sample Image](Sample.png)
 
 
 Title: Interactive Music Player
